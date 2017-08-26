@@ -16,15 +16,20 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li><a href="map.jsp">Mapa</a></li>
-                <li><a href="Choferes.jsp">chofer</a></li>
+                 <li><a href="Somos.jsp">Quienes somos</a></li>
+                  <li><a href="contact.jsp">Contactenos</a></li>
+              
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" >Acerca del proyecto <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="#">Servicios que brindamos</a></li>
-                        <li><a href="#">Quienes somos</a></li>
-                        <li><a href="contact.jsp">Contactenos</a></li>
+                        <li><a href="Referente.jsp">Referente Institucional</a></li>
+                       
                     </ul>
                 </li>
+            <li><a href="Choferes.jsp">chofer</a></li>
+            <li><a href="Usuario.jsp">Usuario</a></li>
+             <li><a href="Administrador.jsp">Administrador</a></li> 
             </ul>
             <form class="navbar-form navbar-left" onsubmit="return false;" >
                 <div class="form-group">
